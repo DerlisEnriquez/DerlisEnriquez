@@ -11,6 +11,7 @@ Estudiante de 2º de DAM en **U-tad** (Las Rozas de Madrid), enfocado en desarro
 ---
 
 ### 📌 Sobre mí
+
 * 🎓 Cursando **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (2025/2027)** en U-tad.
 * 🎙️ Prácticas en el proyecto de la **Radio U-tad** (mayo 2026): creación de *endpoints* en el back-end y mantenimiento/depuración en el front-end.
 * 🏅 Certificaciones: **IT Specialist - Databases** (Certiport / Pearson VUE) y **Título Propio de Inteligencia Artificial Generativa** (U-tad).
@@ -20,24 +21,35 @@ Estudiante de 2º de DAM en **U-tad** (Las Rozas de Madrid), enfocado en desarro
 
 ### 🛠️ Lenguajes, Bases de Datos y Herramientas
 
+💻 **Lenguajes de Programación:**
+
 <p align="center">
-  <b>Lenguajes de Programación</b><br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,c,kotlin,js" />
   </a>
 </p>
 
+🗄️ **Desarrollo Web, Frameworks y Bases de Datos:**
+
 <p align="center">
-  <b>Desarrollo Web, Frameworks y Bases de Datos</b><br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,hibernate,html,css,mysql,mongodb" />
   </a>
 </p>
 
+🧰 **IDEs y Herramientas:**
+
 <p align="center">
-  <b>IDEs, Herramientas y Sistemas</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,docker,maven,git,github,notion,figma,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,docker,maven,notion,figma" />
+  </a>
+</p>
+
+🌱 **Control de Versiones y Sistemas:**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,ubuntu" />
   </a>
 </p>
 
