@@ -7,23 +7,26 @@ Estudiante de 2º de DAM en **U-tad** (Las Rozas de Madrid), enfocado en desarro
 ---
 
 ### 📌 Sobre mí
-* 🎓 Cursando **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (2025/2027)** en U-tad.
-* 🎙️ Participé en las prácticas del proyecto de la **Radio U-tad** (mayo 2026): creación de *endpoints* en el back-end, mantenimiento y corrección de incidencias en el front-end, trabajando con Python, HTML, CSS, JavaScript, Notion, Git y Figma.
-* 🏅 Certificaciones: **IT Specialist - Databases** (Certiport / Pearson VUE) y **Título Propio de Inteligencia Artificial Generativa** (U-tad).
-* 📍 Fuenlabrada (Madrid) | Permiso B1 y vehículo propio.
+* Cursando **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (2025/2027)** en U-tad.
+* Prácticas en el proyecto de la **Radio U-tad** (mayo 2026): creación de *endpoints* en el back-end y mantenimiento/depuración en el front-end.
+* Certificaciones: **IT Specialist - Databases** (Certiport / Pearson VUE) y **Título Propio de Inteligencia Artificial Generativa** (U-tad).
+* Fuenlabrada (Madrid) | Permiso B1 y vehículo propio.
 
 ---
 
-### 🛠️ Competencias Digitales
-* **Lenguajes:** Java, Python, C, Kotlin, JavaScript, SQL
-* **Frameworks y Web:** Spring Boot, Hibernate, HTML5, CSS3
-* **APIs y Acceso a Datos:** API REST, JDBC
-* **Bases de Datos:** MySQL, MariaDB, PL/SQL, MongoDB
-* **Entornos (IDEs):** IntelliJ IDEA, Eclipse, Visual Studio Code, Android Studio, HeidiSQL
-* **Herramientas y SO:** Docker, Maven, JUnit, Git / GitHub, Notion, Linux (Ubuntu)
+### 🛠️ Lenguajes, Bases de Datos y Herramientas
+
+**Lenguajes de Programación:**
+[![Lenguajes](https://skillicons.dev/icons?i=java,py,c,kotlin,js)](https://skillicons.dev)
+
+**Desarrollo Web, Frameworks y Bases de Datos:**
+[![Web y BD](https://skillicons.dev/icons?i=spring,hibernate,html,css,mysql,mongodb)](https://skillicons.dev)
+
+**IDEs, Herramientas y Sistemas:**
+[![Herramientas](https://skillicons.dev/icons?i=idea,eclipse,vscode,androidstudio,docker,maven,git,github,notion,figma,ubuntu)](https://skillicons.dev)
 
 ---
 
 ### 📫 Conecta conmigo
-* **LinkedIn:** https://www.linkedin.com/in/derlis-patricio-enríquez-quevedo-7905793a7
-* **Email:** derlisenriquez11@gmail.com
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/derlis-patricio-enríquez-quevedo-7905793a7)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:derlisenriquez11@gmail.com)
