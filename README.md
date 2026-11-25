@@ -12,10 +12,10 @@ Estudiante de 2º de DAM en **U-tad** (Las Rozas de Madrid), enfocado en desarro
 
 ### 📌 Sobre mí
 
-* 🎓 Cursando **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (2025/2027)** en U-tad.
-* 🎙️ Prácticas en el proyecto de la **Radio U-tad** (mayo 2026): creación de *endpoints* en el back-end y mantenimiento/depuración en el front-end.
-* 🏅 Certificaciones: **IT Specialist - Databases** (Certiport / Pearson VUE) y **Título Propio de Inteligencia Artificial Generativa** (U-tad).
-* 📍 Fuenlabrada (Madrid) | Permiso B1 y vehículo propio.
+* Cursando **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (2025/2027)** en U-tad.
+* Prácticas en el proyecto de la **Radio U-tad** (mayo 2026): creación de *endpoints* en el back-end y mantenimiento/depuración en el front-end.
+* Certificaciones: **IT Specialist - Databases** (Certiport / Pearson VUE) y **Título Propio de Inteligencia Artificial Generativa** (U-tad).
+* Fuenlabrada (Madrid) | Permiso B1 y vehículo propio.
 
 ---
 
